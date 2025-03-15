@@ -9,7 +9,7 @@
 <p align="center"><em>A web developer at <a href="[https://www.soyhenry.com/?gad=1](https://www.politecnicojic.edu.co/)">Politecnico Colombiano Jaime Isaza Cadavid</a> Professional technician in Information Systems Programming</em></p>
 
 
-```javascript
+```
 const aboutMe = {
    pronouns: "he" | "him",
    code: ["Java", "Python"],
